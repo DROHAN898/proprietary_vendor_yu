@@ -51,6 +51,7 @@ PRODUCT_COPY_FILES += \
     vendor/yu/lettuce/proprietary/framework/embmslibrary.jar:system/framework/embmslibrary.jar \
     vendor/yu/lettuce/proprietary/framework/qti-telephony-common.jar:system/framework/qti-telephony-common.jar \
     vendor/yu/lettuce/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
+    vendor/yu/lettuce/proprietary/lib/librilqmiservices.so:system/lib/librilqmiservices.so \
     vendor/yu/lettuce/proprietary/lib64/librilqmiservices.so:system/lib64/librilqmiservices.so \
     vendor/yu/lettuce/proprietary/lib64/libwcnss_qmi.so:system/lib64/libwcnss_qmi.so \
     vendor/yu/lettuce/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
