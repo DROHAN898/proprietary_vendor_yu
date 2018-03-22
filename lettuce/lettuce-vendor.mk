@@ -51,7 +51,6 @@ PRODUCT_COPY_FILES += \
     vendor/yu/lettuce/proprietary/framework/com.qti.snapdragon.sdk.display.jar:system/framework/com.qti.snapdragon.sdk.display.jar \
     vendor/yu/lettuce/proprietary/framework/embmslibrary.jar:system/framework/embmslibrary.jar \
     vendor/yu/lettuce/proprietary/framework/qti-telephony-common.jar:system/framework/qti-telephony-common.jar \
-    vendor/yu/lettuce/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
     vendor/yu/lettuce/proprietary/lib64/librilqmiservices.so:system/lib64/librilqmiservices.so \
     vendor/yu/lettuce/proprietary/lib64/libwcnss_qmi.so:system/lib64/libwcnss_qmi.so \
     vendor/yu/lettuce/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
@@ -72,7 +71,6 @@ PRODUCT_COPY_FILES += \
     vendor/yu/lettuce/proprietary/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
     vendor/yu/lettuce/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
     vendor/yu/lettuce/proprietary/vendor/lib/libFlacSwDec.so:system/vendor/lib/libFlacSwDec.so \
-    vendor/yu/lettuce/proprietary/vendor/lib/libHevcSwDecoder.so:system/vendor/lib/libHevcSwDecoder.so \
     vendor/yu/lettuce/proprietary/vendor/lib/libOmxAacDec.so:system/vendor/lib/libOmxAacDec.so \
     vendor/yu/lettuce/proprietary/vendor/lib/libOmxEvrcDec.so:system/vendor/lib/libOmxEvrcDec.so \
     vendor/yu/lettuce/proprietary/vendor/lib/libOmxQcelp13Dec.so:system/vendor/lib/libOmxQcelp13Dec.so \
@@ -163,7 +161,6 @@ PRODUCT_COPY_FILES += \
     vendor/yu/lettuce/proprietary/vendor/lib/libmmcamera_wavelet_lib.so:system/vendor/lib/libmmcamera_wavelet_lib.so \
     vendor/yu/lettuce/proprietary/vendor/lib/libmmipl.so:system/vendor/lib/libmmipl.so \
     vendor/yu/lettuce/proprietary/vendor/lib/libmmjpeg.so:system/vendor/lib/libmmjpeg.so \
-    vendor/yu/lettuce/proprietary/vendor/lib/libmmosal.so:system/vendor/lib/libmmosal.so \
     vendor/yu/lettuce/proprietary/vendor/lib/libmmqjpeg_codec.so:system/vendor/lib/libmmqjpeg_codec.so \
     vendor/yu/lettuce/proprietary/vendor/lib/liboemcamera.so:system/vendor/lib/liboemcamera.so \
     vendor/yu/lettuce/proprietary/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
